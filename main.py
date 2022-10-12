@@ -1,4 +1,6 @@
-
+# Integrantes:
+# Marco Antonio Castelan Rosete
+# Uriel Tapia Acosta
 # Practica 2
 
 import numpy as np
